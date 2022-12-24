@@ -58,9 +58,6 @@ void getfilewords(string path) {
 }
     
 
-
-    // /Users/Tomi/Documents/test.txt
-
 int check_file_validity(string path) {
     {
         ifstream file(path);
